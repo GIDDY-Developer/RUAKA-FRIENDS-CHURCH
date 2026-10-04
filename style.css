@@ -1,0 +1,25 @@
+body {
+    h2 {
+        color: blue;
+        position: relative;
+    }
+}
+h3 {
+    color: green;
+    position: relative;
+}
+h1 {
+    color: red;
+    position: relative;
+}
+a {
+    color: red;
+    position: relative;
+    font-size: 16px;
+}
+b {
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    
+}
